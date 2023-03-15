@@ -1,5 +1,9 @@
 [
   {
+    "package": "njgeo",
+    "oncran": true
+  },
+  {
     "package": "njtr1",
     "oncran": true
   },

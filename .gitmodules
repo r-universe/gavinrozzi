@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "njgeo"]
+	path = njgeo
+	url = https://github.com/gavinrozzi/njgeo
+	shallow = true
+	registered = true
 [submodule "njtr1"]
 	path = njtr1
 	url = https://github.com/gavinrozzi/njtr1
