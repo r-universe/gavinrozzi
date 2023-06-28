@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "njgeo"]
 	path = njgeo
 	url = https://github.com/gavinrozzi/njgeo
-	shallow = true
-	registered = true
 [submodule "njtr1"]
 	path = njtr1
 	url = https://github.com/gavinrozzi/njtr1
-	shallow = true
-	registered = true
 [submodule "zipcodeR"]
 	path = zipcodeR
 	url = https://github.com/gavinrozzi/zipcoder
-	shallow = true
-	registered = true
